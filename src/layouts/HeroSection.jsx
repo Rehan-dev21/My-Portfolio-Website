@@ -6,10 +6,10 @@ const HeroSection = () => {
       <div className="avatar">👨‍💻</div>
       <div className="hero-text">
         <h1>
-          Hi, I'm <span className="accent">Rik</span> 👋
+          Hi, I'm <span className="accent">Rehan</span> 👋
         </h1>
         <p className="subhead bio">
-          Hello Dada how are you, this is my Project. Plz check it.
+          Hello! how are you, this is my First Portfolio. Plz check it.
         </p>
         <div className="btn-group">
           <Link to="/projects" className="btn">
