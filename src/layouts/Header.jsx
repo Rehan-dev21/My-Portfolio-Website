@@ -7,7 +7,7 @@ const Header = () => {
     <header className="portfolio-header">
       <div className="brand">
         <Link to="/" style={{ textDecoration: "initial" }}>
-          Rik
+          Rehan
         </Link>
       </div>
 

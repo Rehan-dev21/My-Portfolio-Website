@@ -33,8 +33,8 @@ const ContactPage = () => {
           <div className="project-icon">✉️</div>
           <h3>Email</h3>
           <p>Drop me a message directly in my inbox anytime.</p>
-          <a href="mailto:Rik@gmail.com" className="work-link">
-            Rik@gmail.com
+          <a href="mailto:Rehan@gmail.com" className="work-link">
+            Rehan@gmail.com
           </a>
         </div>
 

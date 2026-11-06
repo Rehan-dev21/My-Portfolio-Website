@@ -133,7 +133,7 @@ const Work = () => {
 
         {/* <!-- ---------- Footer ---------- --> */}
         <footer className="page-footer">
-          <p>© 2025 Rik — All rights reserved.</p>
+          <p>© 2025 Rehan — All rights reserved.</p>
           <Link to="/contact">Let's work together →</Link>
         </footer>
       </div>
